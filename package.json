@@ -1,0 +1,13 @@
+{
+  "name": "tcg-marketing-dashboard",
+  "version": "1.0.0",
+  "description": "Marketing Productivity Dashboard for Today Capital Group",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": ["marketing", "dashboard", "productivity", "campaign-tracker"],
+  "author": "Today Capital Group Marketing",
+  "license": "MIT"
+}
